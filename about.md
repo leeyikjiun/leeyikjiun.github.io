@@ -3,5 +3,6 @@ layout: about
 title: About
 permalink: /about/
 ---
+Hi. I'm Yik Jiun, a Software Engineer.
 
-Hi. I'm Yik Jiun.
+My interest lies in performance engineering.
